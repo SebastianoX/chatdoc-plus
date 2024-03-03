@@ -111,9 +111,9 @@ brew install pkg-config poppler python
 
 ## What is different in this fork respect to the forked repository by Maximilian Winter
 
-In respect to the original ![repo](https://github.com/hbacard/chatdoc-plus) by Maximilian Winter ![this fork](https://github.com/SebastianoX/chatdoc-plus) has very little differences.
+In respect to the original [repo](https://github.com/hbacard/chatdoc-plus) by Maximilian Winter [this fork](https://github.com/SebastianoX/chatdoc-plus) has very little differences.
 
-- There is a new page to query and scrape ArXiv for getting a series of pdf articles, based on my previously opened source repo ![ScrapXiv](https://github.com/SebastianoF/ScrapXiv).
+- There is a new page to query and scrape ArXiv for getting a series of pdf articles, based on my previously opened source repo [ScrapXiv](https://github.com/SebastianoF/ScrapXiv).
 - There is a new page to scrape huggingface and get more models, other than `neuralbeagle14-7b.Q5_K_M.gguf` by Maxime Labonne.
 - The chat is now in a page that allow to select documents from the downloaded papers.
 - The python code is packaged and linted.
